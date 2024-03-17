@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: mathlearning
     env: docker
     plan: free
